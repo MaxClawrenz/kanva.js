@@ -4,4 +4,4 @@
 
 По умолчанию перетаскивать можно только холст
 
-<img width="245" alt="image" src="https://github.com/user-attachments/assets/5d6d9056-8f56-47fa-9ed8-334e681d4f5d">
+<img width="305" alt="image" src="https://github.com/user-attachments/assets/5d6d9056-8f56-47fa-9ed8-334e681d4f5d">
