@@ -41,6 +41,9 @@
     padding: 0;
     list-style: none;
 }
+.listChild{
+    color: #fff;
+}
 .listChild:hover{
     color: #ff6d00;
 }
